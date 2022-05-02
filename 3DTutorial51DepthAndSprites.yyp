@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"spr_grass","path":"sprites/spr_grass/spr_grass.yy",},"order":0,},
+    {"id":{"name":"obj_generic_tree","path":"objects/obj_generic_tree/obj_generic_tree.yy",},"order":11,},
     {"id":{"name":"vertex_add_point","path":"scripts/vertex_add_point/vertex_add_point.yy",},"order":0,},
     {"id":{"name":"load_obj","path":"scripts/load_obj/load_obj.yy",},"order":10,},
     {"id":{"name":"load_model","path":"scripts/load_model/load_model.yy",},"order":1,},
